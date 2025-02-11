@@ -11,6 +11,8 @@
 </head>
 
 <body>
+    <a href="index.php">Página inicial</a>
+
     <?php
      echo "<h1>Página de contato do site</h1>";
     ?>

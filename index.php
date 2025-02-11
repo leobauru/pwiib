@@ -11,9 +11,12 @@
 </head>
 
 <body>
+    <a href="contato.php">Página de contato</a>
+
     <?php
      echo "<h1> Titulo do projeto PWII B</h1>";
     ?>
+    
 </body>
 
 </html>
