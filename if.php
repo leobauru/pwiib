@@ -14,7 +14,7 @@
 
 <h1>if</h1>
 <h2>Estrutura de decisão</h2>
-A estrutura de decisão é composta por um teste booleano.
+<p>A estrutura de decisão é composta por um teste booleano.
 Esse teste verifica uma condição se verdadeiro faça alguma ou se falso faça outra.
 
 <pre>
@@ -56,6 +56,9 @@ Ao encontrar um teste positivo, todos os subsequentes não serão executados.
         echo "nenhum nome é igual ao conteudo da variavel";
     }
 </pre>
+</p>
+</div>
 
+<script src="bootstrap.bundle.min.js"></script>
 </body>
 </html>
