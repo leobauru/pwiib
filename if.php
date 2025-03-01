@@ -124,6 +124,16 @@ Caso nenhuma das condições for verdadeira o else é executado.
 Quando temos várias condições apenas uma é necessaria ao usar o conectivo OU
 representado por dois PIPE (Tecla que fica ao lado do Z) ||
 </p>
+
+<h2>Exercicio</h2>
+<p>
+    Crie uma variavel idade preencha com um valor e escreva na tela se ela pode ou não entrar em um evento considerando as seguintes regras:
+<ul>
+<li>Menor de 18 anos: não pode entrar.</li>
+<li>Maior ou igual a 18 e menor que 60: Pode entrar.</li>
+<li>Maior ou igual a 60: Entrada gratuita.</li>
+<ul>
+</p>
 </div>
 
 <script src="bootstrap.bundle.min.js"></script>
