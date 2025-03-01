@@ -38,5 +38,24 @@ Esse teste verifica uma condição se verdadeiro faça alguma ou se falso faça 
  ?>
 </p>
 
+<h2>Estrutura de decisão encadeada</h2>
+
+<p>São varios testes um seguido do outro até algum teste positivo verdadeiro ser encontrado
+Caso não encontre nenhum positivo, o else é executado.
+Ao encontrar um teste positivo, todos os subsequentes não serão executados.
+
+<pre>
+    %nome = "Fernando"
+    if {%nome == "João"}{
+
+    }else if{%nome == "Fernando"}{
+
+    }else if {%nome == "Pedro"}{
+
+    }else {
+        echo "nenhum nome é igual ao conteudo da variavel";
+    }
+</pre>
+
 </body>
 </html>
